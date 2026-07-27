@@ -1,0 +1,18 @@
+generated: '2026-07-19'
+method: probed
+source: live probes of https://gigster.com/.well-known/*
+host: https://gigster.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+note: No .well-known discovery documents are published. Gigster is a managed
+  software-development services company with no public developer API surface;
+  absence of these documents is expected and recorded here for auditability.

@@ -1,0 +1,43 @@
+# Gigster
+ 
+> Gigster is an enterprise software development services company that connects businesses with top-tier global talent for custom software development, AI solutions, and digital transformation. With a network of 50,000+ vetted developers, designers, and product experts, Gigster offers fully-managed teams, dedicated teams, and on-demand talent augmentation — delivering projects on time and on budget, guaranteed.
+ 
+Gigster has completed 1,000+ engagements for leading enterprises across industries including healthcare, finance, and technology. The company is backed by $32M from top Silicon Valley investors. Key differentiators include AI-driven talent matching, a proprietary delivery platform, 95% on-time/on-budget delivery rate, and 60% lower project risk compared to traditional IT approaches. Average team staffing time is under 10 days.
+ 
+Gigster's three engagement models are:
+- **Fully Managed**: Gigster takes full ownership from scoping to delivery
+- **Dedicated Teams**: Skilled, dedicated teams that scale with your business goals
+- **Talent On Demand**: On-demand experts that blend with your existing team
+ 
+## Core Pages
+ 
+- [Home](https://gigster.com/): Overview of Gigster's services, engagement models, and value proposition
+- [Why Gigster](https://gigster.com/why-gigster/): Detailed comparison with traditional hiring, systems integrators, and freelance marketplaces; platform overview and key metrics
+- [About Gigster](https://gigster.com/about/): Company mission, vision, culture, and values
+- [Hire Gigster](https://gigster.com/hire-gigster/): Start a project or request a no-cost consultation
+- [Talent Network](https://gigster.com/talent/): Information about the 50,000+ vetted global developer and designer network
+- [Clients & Case Studies](https://gigster.com/clients/): Portfolio of enterprise client projects and success stories
+- [FAQ](https://gigster.com/faq/): Frequently asked questions about working with Gigster
+- [Network FAQ](https://gigster.com/network-faq/): FAQ for talent joining the Gigster network
+- [Contact](https://gigster.com/contact/): Get in touch with the Gigster team
+ 
+## Solutions
+ 
+- [Artificial Intelligence Development](https://gigster.com/artificial-intelligence-development/): Custom AI and machine learning application development for enterprises
+- [Innovation, Design, and UX](https://gigster.com/innovation-design-ux/): Product innovation, UX strategy, and digital experience design
+- [Applications and Platforms](https://gigster.com/applications-and-platforms/): Custom web and mobile application development, cloud-native platforms
+- [System Modernization and Optimization](https://gigster.com/system-modernization-optimization/): Legacy system modernization, cloud migration, and performance optimization
+- [AI Readiness Assessment](https://gigster.com/ai-readiness/): A free 10-minute quiz to assess an organization's readiness for AI implementation
+ 
+## Resources
+ 
+- [Blog](https://gigster.com/blog/): Articles on AI, enterprise software, future of work, and modern development teams
+- [Ebooks & Guides](https://gigster.com/e-books-and-guides/): In-depth resources and downloadable guides on software development and AI
+- [Newsroom](https://gigster.com/newsroom/): Press releases and company news
+- [Resources](https://gigster.com/resources/): Additional tools and educational content
+ 
+## Optional
+ 
+- [Terms of Use](https://gigster.com/terms-of-use/): Legal terms governing use of Gigster's website and services
+- [Privacy Policy](https://gigster.com/privacy-policy/): How Gigster collects, uses, and protects user data
+- [Join Gigster (Careers)](https://www.virtasant.com/careers?src=gigster): Open positions for talent looking to join the Gigster network

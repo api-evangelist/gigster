@@ -2,14 +2,13 @@
   "repo": "gigster",
   "feeds": [
     {
-      "source": "https://gigster.com/feed/",
-      "error": "URLError"
-    },
-    {
       "source": "https://gigster.com/about/",
-      "error": "URLError"
+      "feed_url": "https://gigster.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     }
   ],
   "post_count": 10,
-  "fetched": "2026-08-01T15:49:00Z"
+  "fetched": "2026-08-06T14:08:46Z"
 }
